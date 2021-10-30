@@ -7,6 +7,6 @@ This is a complete block of code that was output from the OpenAI Codex API. It t
 see the video about this here:
 https://youtu.be/gre8DX8m6U8
 
-You would need to install [ROS, https://www.ros.org/] and Moveit package in order to be able to run the code.
+You would need to install [ROS](https://www.ros.org/) and Moveit package in order to be able to run the code.
 
 OpenAI Codex seem like a very powerful tool that can help us to program robots more faster.
